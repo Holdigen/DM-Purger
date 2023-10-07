@@ -1,0 +1,7 @@
+{
+    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "channelId": "CHANNEL_ID_OF_TARGET_HERE",
+    "targetId": "USER_ID_OF_TARGET_HERE",
+
+    "cooldown": 0.5
+}
